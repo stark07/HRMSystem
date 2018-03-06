@@ -22,7 +22,7 @@ define('DB_USER', "rooter@hrmdb");
 
 define('DB_PASS', "Test1234"); 
 
-define('DB_NAME', "hrm"); 
+define('DB_NAME', "AHRM"); 
 
 
 //SESSION CONFIGURATION
